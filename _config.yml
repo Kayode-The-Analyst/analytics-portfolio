@@ -1,5 +1,5 @@
 title: Kayode Omotayo | Data Analyst
-description: Data analyst with 6+ years of experience in SQL, Python, Power BI, and cloud analytics. Specializing in automation, reporting, and actionable business insights.
+description: Data analyst with 6+ years of experience in SQL, Python, Power BI, and cloud analytics, delivering automated reporting and actionable business insights.
 theme: jekyll-theme-minimal
 
 author:
@@ -7,7 +7,7 @@ author:
   email: omotayo.kayode@gmail.com
 
 url: https://kayode-the-analyst.github.io
-baseurl: "/analytics-portfolio"
+baseurl: "/portfolio"
 
 linkedin_username: kayodetheanalyst
 
