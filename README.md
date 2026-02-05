@@ -42,7 +42,8 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 *A glimpse of some of the projects I've been working on.*
 
 **How I analysed over 10,000 customer records and developed predictive models projected to reduce churn by 27%.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Veritas1.png)
+![image](Veritas1.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
