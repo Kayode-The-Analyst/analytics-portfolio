@@ -42,6 +42,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 *A glimpse of some of the projects I've been working on.*
 
 **How I analysed over 10,000 customer records and developed predictive models projected to reduce churn by 27%.**
+
 ![image](Veritas1.png)
 ![image](Veritas2.png)
 
