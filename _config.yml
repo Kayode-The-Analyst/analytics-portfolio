@@ -3,17 +3,9 @@ logo: 314A0842.jpg
 description: Data analyst with 6+ years of experience in SQL, Python, Power BI, and cloud analytics, delivering automated reporting and actionable business insights.
 theme: jekyll-theme-minimal
 
-author:
-  name: Kayode Omotayo
-  email: omotayo.kayode@gmail.com
 
-url: https://kayode-the-analyst.github.io
-baseurl: "/portfolio"
 
-linkedin_username: kayodetheanalyst
 
-plugins:
-  - jekyll-seo-tag
 
 
 
