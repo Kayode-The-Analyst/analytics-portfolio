@@ -37,20 +37,15 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
-**How I analysed over 10,000 customer records and developed predictive models projected to reduce churn by 27%.**
+**How I analyzed 71,966 kWh of sensor data and 354 maintenance records in Excel to identify HVAC and tenant behavior patterns, enabling targeted actions that improved energy efficiency and preventive maintenance planning across rental units by 33%.**
 
+![Dashboard Overview](assets/energy/overview.png)
 
-![image](Veritas1.png)
-
-
-![image](Veritas2.png)
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
+![Maintenance Dashboard](assets/energy/maintenance.png)
 
 - [Read More](energy-usage-analysis)
 
