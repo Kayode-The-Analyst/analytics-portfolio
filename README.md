@@ -60,13 +60,13 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 [Read More](customers-churn-and-Retention-analysis)
 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Identified strategies to lift retention and purchase frequency, targeting up to 15% revenue growth through improved customer segmentation — ShopSync E-commerce**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![Dashboard Overview](assets/energy/veritas1.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+![Churn-Rate Dashboard](assets/energy/veritas2.png)
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](customers-churn-and-Retention-analysis)
 
 
 ## CONTACT DETAILS
