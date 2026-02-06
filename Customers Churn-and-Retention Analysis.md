@@ -45,5 +45,6 @@ The analysis provided clear, actionable retention strategies that help reduce ch
 ## 🖥 Dashboard Preview
 ![Dashboard Overview](assets/energy/veritas1.png)
 
+
 ![Maintenance Dashboard](assets/energy/veritas2.png)
 
