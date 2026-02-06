@@ -1,7 +1,11 @@
----
-layout: page
-title: Optimizing Energy Usage in Rental Units Using Smart Sensors
----
+<div class="hero">
+
+# Optimizing Energy Usage in Rental Units Using Smart Sensors
+
+*Excel-based analysis of smart sensor data to uncover energy trends, tenant behavior, and HVAC maintenance insights.*
+
+</div>
+
 
 ## 📊 Project Overview
 
