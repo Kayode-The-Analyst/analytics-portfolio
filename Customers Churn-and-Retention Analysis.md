@@ -42,3 +42,8 @@ High-revenue regions are losing customers due to poor engagement and lack of tar
 ## 📌 Outcome
 The analysis provided clear, actionable retention strategies that help reduce churn risk, improve customer engagement, and protect long-term revenue.
 
+## 🖥 Dashboard Preview
+![Dashboard Overview](assets/energy/veritas1.png)
+
+![Maintenance Dashboard](assets/energy/veritas2.png)
+
