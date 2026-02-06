@@ -68,6 +68,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 ![Churn-Rate Dashboard](assets/energy/shopsync3.png)
 
+
 [Read More](optimizing-customer-segmentation-and-sales-strategy)
 
 
