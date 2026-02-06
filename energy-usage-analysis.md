@@ -32,8 +32,8 @@ Data cleaning, analysis, pivot tables, and dashboard creation.
 - Improve preventive maintenance planning
 
 ## 🖥 Dashboard Preview
-![Dashboard](assets/overview.png)
-![Dashboard](assets/maintenance.png)
+![Dashboard Overview](assets/energy/overview.png)
+![Maintenance Dashboard](assets/energy/maintenance.png)
 
 
   
