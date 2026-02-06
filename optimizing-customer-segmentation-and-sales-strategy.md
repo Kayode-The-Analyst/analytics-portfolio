@@ -2,11 +2,11 @@
 
 # Optimizing Customer Segmentation and Sales Strategy — ShopSync E-commerce
 
-*Excel-based analysis of smart sensor data to uncover energy trends, tenant behavior, and HVAC maintenance insights.*
 
 </div>
 
 ## 📊 Project Overview
+
 This project analyzes customer behavior, sales trends, and regional performance for ShopSync, an e-commerce business, to improve customer segmentation, increase customer lifetime value (CLTV), and address seasonal revenue decline.
 
 - 500 customers | 5,000 orders | 100 products
