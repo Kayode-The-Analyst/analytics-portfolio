@@ -55,9 +55,10 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 ![Dashboard Overview](assets/energy/veritas1.png)
 
-![Maintenance Dashboard](assets/energy/veritas2.png)
+![Churn-Rate Dashboard](assets/energy/veritas2.png)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](customers-churn-and-Retention-analysis)
+
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
