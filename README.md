@@ -52,7 +52,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+- [Read More](energy-usage-analysis)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
