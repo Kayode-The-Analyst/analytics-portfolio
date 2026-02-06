@@ -33,6 +33,7 @@ Data cleaning, analysis, pivot tables, and dashboard creation.
 
 ## 🖥 Dashboard Preview
 ![Dashboard Overview](assets/energy/overview.png)
+
 ![Maintenance Dashboard](assets/energy/maintenance.png)
 
 
