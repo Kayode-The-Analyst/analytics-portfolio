@@ -49,11 +49,11 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 - [Read More](energy-usage-analysis)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Led ~85% of customer churn analysis, SQL transformation, Power BI dashboards, and data-driven retention strategy development for Veritas Bank**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![Dashboard Overview](assets/energy/veritas1.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+![Maintenance Dashboard](assets/energy/veritas2.png)
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
