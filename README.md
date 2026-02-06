@@ -49,6 +49,8 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 - [Read More](energy-usage-analysis)
 
+
+
 **Led ~85% of customer churn analysis, SQL transformation, Power BI dashboards, and data-driven retention strategy development for Veritas Bank**
 
 ![Dashboard Overview](assets/energy/veritas1.png)
