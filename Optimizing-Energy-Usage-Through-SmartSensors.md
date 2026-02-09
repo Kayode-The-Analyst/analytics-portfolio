@@ -107,8 +107,10 @@ Energy Analytics • Operational Analysis • Dashboard Design • Data Visualiz
 ![Dashboard Overview](assets/energy/hometech-overview-dashboard.png)
 
 
+
 ![Maintenance Dashboard](assets/energy/hometech-maintenance-dashboard.png)
 
 
 
-![Explore More Data Projects in My Portfolio](README.md)
+[Explore More Data Projects in My Portfolio](https://kayode-the-analyst.github.io/analytics-portfolio/)
+
