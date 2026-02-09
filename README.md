@@ -63,7 +63,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 ![Maintenance Dashboard](assets/energy/agents-performance-&-cx-dashboard)
 
-- [Read More](intelligent-travel-concierge-assistant)
+- [Read More](intelligent-travel-concierge-assistant.md)
 
 
 **Led ~85% of customer churn analysis, SQL transformation, Power BI dashboards, and data-driven retention strategy development for Veritas Bank**
