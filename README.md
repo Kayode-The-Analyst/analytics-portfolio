@@ -51,6 +51,21 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 
 
+**How Identified process, knowledge, and automation opportunities projected to reduce SLA breaches by 30% and improve CSAT by 20%.**
+
+
+![Dashboard Overview](assets/energy/grandstay-executive-dashboard1.png)
+
+
+
+![Maintenance Dashboard](assets/energy/grandstay-escalations-dashboard2.png)
+
+
+![Maintenance Dashboard](assets/energy/agents-performance-&-cx-dashboard)
+
+- [Read More](intelligent-travel-concierge-assistant(AI Automation))
+
+
 **Led ~85% of customer churn analysis, SQL transformation, Power BI dashboards, and data-driven retention strategy development for Veritas Bank**
 
 ![Dashboard Overview](assets/energy/veritas1.png)
