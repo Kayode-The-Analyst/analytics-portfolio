@@ -48,3 +48,7 @@ The analysis provided clear, actionable retention strategies that help reduce ch
 
 ![Maintenance Dashboard](assets/energy/veritas2.png)
 
+
+
+[Explore More Data Projects in My Portfolio](https://kayode-the-analyst.github.io/analytics-portfolio/)
+
