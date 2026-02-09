@@ -1,6 +1,6 @@
 <div class="hero">
 
-# Customers Churn and Retention Analysis — Veritas Bank
+# Optimizing Energy Usage in Rental Units Through Smart Sensors
 
 </div>
 
