@@ -106,7 +106,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="[CVn.pdf](https://github.com/Kayode-The-Analyst/analytics-portfolio/blob/bea5f20d9ea847f942edf3ca0dc51025c584430d/CVn.pdf)">Download my CV</a></td>
+      <td><a href="[CVn.pdf](CVn.pdf)">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
