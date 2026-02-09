@@ -104,10 +104,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
       <td>📍</td>
       <td>Aberdeen, United Kingdom</td>
     </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="[CVn.pdf](CVn.pdf)">Download my CV</a></td>
-    </tr>
+  
     <tr>
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/kayodetheanalyst">The things I do daily on LinkedIn</a></td>
