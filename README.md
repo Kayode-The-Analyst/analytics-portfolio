@@ -107,7 +107,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
   
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/kayodetheanalyst">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/kayodetheanalyst/">The things I do daily on LinkedIn</a></td>
     </tr>
    
   </tbody>
