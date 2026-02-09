@@ -107,7 +107,7 @@ Energy Analytics • Operational Analysis • Dashboard Design • Data Visualiz
 ![Dashboard Overview](hometech-overview-dashboard.png)
 
 
-![Maintenance Dashboard](hometech-aintenance-dashboard.png)
+![Maintenance Dashboard](hometech-maintenance-dashboard.png)
 
 
 
