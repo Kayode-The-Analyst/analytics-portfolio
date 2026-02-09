@@ -104,10 +104,10 @@ Implementing these recommendations can help HomeTech Solutions:
 Energy Analytics • Operational Analysis • Dashboard Design • Data Visualization • Excel Analytics • Business Insight Generation
 
 ## 🖥 Dashboard Preview
-![Dashboard Overview](hometech-overview-dashboard.png)
+![Dashboard Overview](assets/energy/hometech-overview-dashboard.png)
 
 
-![Maintenance Dashboard](hometech-maintenance-dashboard.png)
+![Maintenance Dashboard](assets/energy/hometech-maintenance-dashboard.png)
 
 
 
