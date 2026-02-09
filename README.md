@@ -39,7 +39,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 <!--Section 2: List 3-4 key projects-->
 ## PROJECTS
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the projects I've worked on.*
 
 **How I analyzed 71,966 kWh of sensor data and 354 maintenance records in Excel to identify HVAC and tenant behavior patterns, enabling targeted actions that improved energy efficiency and preventive maintenance planning across rental units by 33%.**
 
