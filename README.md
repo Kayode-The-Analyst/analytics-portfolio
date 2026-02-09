@@ -14,11 +14,11 @@ I’ve worked across **healthcare, schools, engineering, technology, and consult
 
 **Data Analysis, Automation & Reporting**
 
-- ✅ Build scalable dashboards and reports using **Power BI, SQL, and Excel**
-- ✅ Automate ETL pipelines to improve efficiency and data reliability
-- ✅ Deliver predictive and statistical analysis using **Python**
-- ✅ Support data governance, documentation, and compliance
-- ✅ Translate complex data into clear insights for non-technical stakeholders
+-  Build scalable dashboards and reports using **Power BI, SQL, and Excel**
+-  Automate ETL pipelines to improve efficiency and data reliability
+-  Deliver predictive and statistical analysis using **Python**
+-  Support data governance, documentation, and compliance
+-  Translate complex data into clear insights for non-technical stakeholders
 
 ---
 
