@@ -47,7 +47,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 ![Maintenance Dashboard](assets/energy/maintenance.png)
 
-- [Read More](energy-usage-analysis)
+- [Read More](energy-usage-analysis.md)
 
 
 
@@ -72,7 +72,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 
 ![Churn-Rate Dashboard](assets/energy/veritas2.png)
 
-[Read More](customers-churn-and-Retention-analysis)
+[Read More](customers-churn-and-Retention-analysis.md)
 
 
 **Identified strategies to lift retention and purchase frequency, targeting up to 15% revenue growth through improved customer segmentation — ShopSync E-commerce**
@@ -84,7 +84,7 @@ ETL Pipelines, Data Modelling, Predictive Analytics, Statistical Analysis, Forec
 ![Churn-Rate Dashboard](assets/energy/shopsync3.png)
 
 
-[Read More](optimizing-customer-segmentation-and-sales-strategy)
+[Read More](optimizing-customer-segmentation-and-sales-strategy.md)
 
 
 ## CONTACT DETAILS
