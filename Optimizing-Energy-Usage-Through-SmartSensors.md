@@ -1,7 +1,8 @@
----
-layout: page
-title: Optimizing Energy Usage in Rental Units Using Smart Sensors
----
+<div class="hero">
+
+# Customers Churn and Retention Analysis — Veritas Bank
+
+</div>
 
 ## 📊 Project Overview
 This project analyzes energy consumption and maintenance patterns across rental units managed by **HomeTech Solutions**, using smart sensor data to uncover inefficiencies, behavioral drivers of energy usage, and maintenance trends. The goal was to support data-driven decisions that reduce energy waste, improve system reliability, and optimize operational planning.
@@ -102,3 +103,12 @@ Implementing these recommendations can help HomeTech Solutions:
 ## 🧠 Key Skills Demonstrated
 Energy Analytics • Operational Analysis • Dashboard Design • Data Visualization • Excel Analytics • Business Insight Generation
 
+## 🖥 Dashboard Preview
+![Dashboard Overview](hometech-overview-dashboard.png)
+
+
+![Maintenance Dashboard](hometech-aintenance-dashboard.png)
+
+
+
+![Explore More Data Projects in My Portfolio](README.md)
