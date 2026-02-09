@@ -41,5 +41,8 @@ Data cleaning, analysis, pivot tables, and dashboard creation.
 ![Maintenance Dashboard](assets/energy/maintenance.png)
 
 
+[Explore More Data Projects in My Portfolio](https://kayode-the-analyst.github.io/analytics-portfolio/)
+
+
   
 
