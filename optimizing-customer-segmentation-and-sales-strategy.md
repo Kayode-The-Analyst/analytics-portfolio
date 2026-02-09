@@ -50,3 +50,7 @@ The analysis provided actionable segmentation and sales strategies to increase r
 
 ![Churn-Rate Dashboard](assets/energy/shopsync3.png)
 
+
+
+[Explore More Data Projects in My Portfolio](https://kayode-the-analyst.github.io/analytics-portfolio/)
+
