@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I’m **Kayode Omotayo** 👋  
+I’m **Kayode Omotayo** 👋  
 A **Data Analyst** with over **6 years of experience** transforming complex datasets into actionable business and operational insights.
 
 I’ve worked across **healthcare, schools, engineering, technology, and consulting**, supporting stakeholders with accurate, compliant, and decision-driven analytics. My strengths lie in combining technical analysis with clear communication, automation, and documentation.
