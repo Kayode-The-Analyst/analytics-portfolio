@@ -70,10 +70,8 @@ Data Quality Management
 ---
 ## PROFESSIONAL EXPERIENCE
 
-Data Analytics Consultant | Amdari, United Kingdom
-
+## Data Analytics Consultant | Amdari, United Kingdom
 2025 – Present
-
 Design and develop data analytics solutions using SQL, Python, Power BI, and cloud technologies.
 Build interactive dashboards that support strategic decision-making.
 Develop ETL pipelines and automate reporting workflows.
@@ -82,10 +80,10 @@ Deliver analytics solutions across multiple business domains.
 
 Selected projects include:
 
-Customer Churn Analysis (Veritas Bank)
-HVAC Energy Consumption Analytics
-ShopSync Customer Segmentation
-Intelligent Service Desk Analytics
+Customer Churn Analysis (Veritas Bank),
+HVAC Energy Consumption Analytics,
+ShopSync Customer Segmentation,
+Intelligent Service Desk Analytics,
 
 ## Laboratory IT Support Specialist / Data Support | NHS Grampian, Aberdeen, United Kingdom
 2023 – 2024
