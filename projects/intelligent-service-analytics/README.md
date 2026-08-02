@@ -2,9 +2,11 @@
 <div class="hero">
 # Intelligent Service Analytics & Decision Support
 
-## Investigating SLA Risk, Escalation, Automation Opportunities and Customer Experience
+## Intelligent Service Analytics and Decision Support: An Applied Operational Analytics Study
 
-### Applied Research & Data Analytics Project
+### Research & Applied Analytics Project
+### Research areas:
+Artificial Intelligence · Decision Support Systems · Predictive Analytics · Service Analytics · Process Automation · Customer Experience Analytics · Workforce Analytics
 
 ---
 
@@ -18,7 +20,7 @@ The project combines data preparation, exploratory data analysis, statistical in
 
 The analysis identified substantial differences in SLA performance across service channels, ticket characteristics, escalation status, knowledge-base requirements, and workload periods. An initial predictive modelling experiment also demonstrated that operational variables can provide useful information for distinguishing tickets associated with SLA-breach risk.
 
-The project provides a foundation for further research into **machine learning, explainable AI, intelligent service management, predictive analytics, automation, and human-centred decision-support systems**.
+The project provides a foundation for further research into **machine learning, explainable AI, intelligent service management, predictive analytics, automation, and human-centered decision-support systems**.
 
 **Research areas:** Machine Learning · Predictive Analytics · Intelligent Systems · Decision Support · Service Analytics · Explainable AI · Process Automation
 
@@ -229,19 +231,23 @@ The project therefore considered the analytical grain of variables when interpre
 # 7. Exploratory Data Analysis
 
 Exploratory analysis was conducted to understand the structure and behaviour of the service-operation dataset.
+The analytical framework was implemented through a consolidated SQL analytical view, vw_support_analytics, which integrated ticket-level performance, knowledge-base and escalation information, inquiry-volume patterns, and cost-efficiency measures.
+
+A series of analytical views were then developed to investigate specific operational questions, including SLA-breach patterns, escalation drivers, knowledge-base effectiveness, agent performance, workload, automation readiness, customer satisfaction, cost efficiency, and workforce factors.
+
+This approach allowed the project to move from a single operational dataset towards a structured set of analytical investigations.
 
 The analysis examined:
 
-- SLA performance
-- Handle time
-- Customer satisfaction
-- Service channels
-- Escalation
-- Knowledge-base usage
-- Repetitive enquiries
-- Workload
-- Temporal patterns
-- Automation opportunities
+- Escalation_Rate_by_Inquiry_Cat
+- Peak_Hour_vs_SLA_Breaches
+- Agent_Performance_vs_CSAT
+- Repetitive_Inquiries_Impact_on_Cost_and_Time
+- Escalation_Drivers_Analysis
+- Demand_Forecasting_and_Capacity_Planning
+- Automation_Readiness
+- First_Response_Time_vs_CSAT
+- Transfer_Count_Impact_on_Satisfaction
 
 The purpose was to identify patterns that could provide a foundation for further statistical and predictive analysis.
 
