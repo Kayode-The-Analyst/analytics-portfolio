@@ -112,11 +112,11 @@ Dashboards were developed to communicate:
 
 ### Energy Consumption Overview
 
-<img src="assets/energy/overview.png" alt="HVAC Energy Analytics Dashboard" width="850">
+<img src="../../assets/energy/overview.png" alt="HVAC Energy Analytics Dashboard" width="850">
 
 ### Maintenance Analysis
 
-<img src="assets/energy/maintenance.png" alt="HVAC Maintenance Analytics Dashboard" width="850">
+<img src="../../assets/energy/maintenance.png" alt="HVAC Maintenance Analytics Dashboard" width="850">
 
 ---
 
