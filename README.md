@@ -200,7 +200,7 @@ Research areas: Predictive Analytics · Machine Learning · Energy Analytics · 
 Intelligent Service Analytics & Decision Support
 Investigating opportunities for automation and intelligent prediction of service-level risks.
 Research areas: AI · Intelligent Systems · Explainable AI
-[Read Project →](Intelligent Service Analytics and Decision Support)
+[Read Project →](Intelligent_Service_Analytics_and_Decision_Support.md)
 
 
 <div><img src="assets/energy/grandstay-executive-dashboard1.png" alt="Intelligent Service Analytics Executive Dashboard" width="400"></div>
