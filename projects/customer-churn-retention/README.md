@@ -152,7 +152,7 @@ The Power BI dashboard was developed to provide an interactive view of customer 
 
 ## Churn Analysis Dashboard
 
-<img src="assets/energy/veritas1.png" alt="Veritas Bank Customer Churn Analysis Dashboard" width="850">
+<img src="../../assets/energy/veritas1.png" alt="Veritas Bank Customer Churn Analysis Dashboard" width="750">
 
 The dashboard provides a visual representation of customer churn patterns and supports exploration of customer characteristics associated with retention and churn.
 
@@ -176,7 +176,7 @@ A second analytical dashboard was developed to provide a more detailed view of c
 
 ## Detailed Churn Dashboard
 
-<img src="assets/energy/veritas2.png" alt="Detailed Customer Churn and Retention Dashboard" width="850">
+<img src="../../assets/energy/veritas2.png" alt="Detailed Customer Churn and Retention Dashboard" width="750">
 
 The dashboard supports deeper exploration of customer churn and provides a basis for interpreting customer behaviour patterns.
 
