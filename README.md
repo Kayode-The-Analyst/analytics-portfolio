@@ -191,7 +191,7 @@ Methods: Exploratory analysis, feature engineering, predictive modelling
 Tools: Python, Excel, Power BI
 Research areas: Machine Learning · Predictive Maintenance · IoT Analytics
 
-[Read Research Project →](energy-usage-analysis.md)
+[Read Research Project →](projects/energy-usage-analysis/README.md)
 
 <div> <img src="assets/energy/overview.png" alt="HVAC Energy Dashboard" width="400"> </div>
 Research areas: Predictive Analytics · Machine Learning · Energy Analytics · Predictive Maintenance
@@ -205,24 +205,26 @@ The analysis identified opportunities projected to reduce SLA breaches by approx
 
 **Research areas:** Artificial Intelligence · Intelligent Systems · Predictive Analytics · Decision Support
 
-[Read Project →](Intelligent_Service_Analytics_and_Decision_Support.md)
+[Read Research Project →](projects/intelligent-service-analytics/README.md)
 
 
 <div><img src="assets/energy/grandstay-executive-dashboard1.png" alt="Intelligent Service Analytics Executive Dashboard" width="400"></div>
 
 
-Explainable Machine Learning for Customer Churn
+### 3. Explainable Machine Learning for Customer Churn
 Applying predictive modelling and explainable AI to customer retention.
 Research areas: Machine Learning · Explainable AI · Predictive Analytics
-[Read Project →](customers-churn-and-Retention-analysis.md)
+
+[Read Research Project →](projects/customer-churn-retention/README.md)
 
 <div><img src="assets/energy/veritas1.png" alt="Veritas Bank Customer Churn Dashboard" width="400"></div>
 
 
-Machine Learning-Based Customer Segmentation
+### 4. Machine Learning-Based Customer Segmentation
 Applying clustering and behavioural analysis to identify meaningful customer segments.
 Research areas: Unsupervised Learning · Clustering · Customer Analytics
-[Read Project →](optimizing-customer-segmentation-and-sales-strategy.md)
+
+[Read Research Project →](projects/customer-segmentation/README.md)
 
 <div><img src="assets/energy/shopsync1.png" alt="ShopSync Customer Segmentation Dashboard" width="400"></div>
 
