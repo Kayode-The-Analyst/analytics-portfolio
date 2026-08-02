@@ -232,11 +232,6 @@ It also provides a practical foundation for further research into machine learni
 
 The current published results represent the analytical work completed to date. Future experimental work will evaluate predictive models using appropriate datasets and evaluation procedures.
 
-## 🖥 Dashboard Preview
-![Dashboard Overview](assets/energy/overview.png)
-
-![Maintenance Dashboard](assets/energy/maintenance.png)
-
 
 [Explore More Data Projects in My Portfolio](https://kayode-the-analyst.github.io/analytics-portfolio/)
 
