@@ -1,6 +1,6 @@
 # Kayode Omotayo
 
-## Computer Scientist | Data Analytics Consultant | Enterprise IT Professional | AI & Data Analytics Research Enthusiast
+## Computer Scientist | Data Analytics Consultant | Enterprise IT Professional | Aspiring AI & Data Analytics Researcher
 
 Transforming data into intelligent solutions through analytics, cloud technologies, and machine learning.
 
