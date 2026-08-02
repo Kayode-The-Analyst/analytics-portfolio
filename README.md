@@ -212,7 +212,7 @@ Research areas: Machine Learning · Explainable AI · Predictive Analytics
 [Read Project →](customers-churn-and-Retention-analysis.md)
 
 ![Dashboard Overview](assets/energy/veritas1.png)
-
+<div><img src="assets/energy/veritas1.png" alt="Veritas Bank Customer Churn Dashboard" width="450"></div>
 
 
 Machine Learning-Based Customer Segmentation
