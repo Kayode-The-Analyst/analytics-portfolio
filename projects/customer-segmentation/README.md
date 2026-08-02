@@ -169,7 +169,7 @@ The project included dashboard-based analysis to support interpretation of custo
 
 ## Customer Segmentation Dashboard
 
-<img src="assets/energy/shopsync1.png" alt="ShopSync Customer Segmentation Dashboard" width="850">
+<img src="../../assets/energy/shopsync1.png" alt="ShopSync Customer Segmentation Dashboard" width="750">
 
 The dashboard provides a visual representation of customer and sales patterns and supports exploration of differences between customer groups.
 
@@ -226,7 +226,7 @@ A further dashboard was developed to support analysis of sales and customer beha
 
 ## Sales Strategy Dashboard
 
-<img src="assets/energy/shopsync2.png" alt="ShopSync Sales Strategy Dashboard" width="850">
+<img src="../../assets/energy/shopsync2.png" alt="ShopSync Sales Strategy Dashboard" width="750">
 
 The dashboard supports analysis of sales patterns and customer behaviour relevant to the development of targeted strategies.
 
