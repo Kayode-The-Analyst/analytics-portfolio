@@ -203,8 +203,6 @@ Analysed service-operation data to identify process, knowledge and automation op
 
 The analysis identified opportunities projected to reduce SLA breaches by approximately **30%** and improve CSAT by approximately **20%**, while providing a foundation for further research into predictive analytics and intelligent decision-support systems.
 
-<img src="assets/energy/grandstay-executive-dashboard1.png" alt="Intelligent Service Analytics Executive Dashboard" width="450">
-
 **Research areas:** Artificial Intelligence · Intelligent Systems · Predictive Analytics · Decision Support
 
 [Read Project →](Intelligent_Service_Analytics_and_Decision_Support.md)
