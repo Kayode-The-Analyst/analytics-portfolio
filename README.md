@@ -182,9 +182,16 @@ Graduated: 2009
 
 ## PROJECTS
 
-*A glimpse of some of the projects I've worked on.*
+Machine Learning for HVAC Energy Consumption & Predictive Maintenance
 
-**How I analyzed 71,966 kWh of sensor data and 354 maintenance records in Excel to identify HVAC and tenant behavior patterns, enabling targeted actions that improved energy efficiency and preventive maintenance planning across rental units by 33%.**
+Investigating whether sensor and maintenance data can be used to identify energy-consumption patterns and predict maintenance requirements.
+
+Dataset: 71,966 kWh sensor records + 354 maintenance records
+Methods: Exploratory analysis, feature engineering, predictive modelling
+Tools: Python, Excel, Power BI
+Research areas: Machine Learning · Predictive Maintenance · IoT Analytics
+
+[Read Research Project →](energy-usage-analysis.md)
 
 ![Dashboard Overview](assets/energy/overview.png)
 
