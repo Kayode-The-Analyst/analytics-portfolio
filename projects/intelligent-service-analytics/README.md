@@ -1124,7 +1124,7 @@ The longer-term research objective is to investigate how machine learning, data 
 
 ### Executive Service Analytics Dashboard
 
-<img src="assets/energy/grandstay-executive-dashboard1.png" alt="GrandStay Executive Service Analytics Dashboard" width="850">
+<img src="../../assets/energy/grandstay-executive-dashboard1.png" alt="GrandStay Executive Service Analytics Dashboard" width="850">
 
 ### Escalation Analysis Dashboard
 
@@ -1132,7 +1132,7 @@ The longer-term research objective is to investigate how machine learning, data 
 
 ### Agent Performance and Customer Experience Dashboard
 
-<img src="assets/energy/agents-performance-&-cx-dashboard" alt="GrandStay Agent Performance and Customer Experience Dashboard" width="850">
+<img src="../../assets/energy/grandstay-escalations-dashboard2.png" alt="GrandStay Escalation Analysis Dashboard" width="850">
 
 ---
 
