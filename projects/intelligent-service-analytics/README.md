@@ -226,6 +226,8 @@ This distinction is important because summing repeated monthly values at ticket 
 
 The project therefore considered the analytical grain of variables when interpreting results.
 
+Analytical grain was explicitly considered when interpreting joined datasets. Ticket-level measures and monthly aggregate measures were not assumed to be interchangeable. Where aggregate variables were joined to ticket-level records, the resulting repetition was treated as contextual information rather than automatically interpreted as independent observations. Financial and workforce metrics therefore require aggregation at their original analytical grain when calculating totals or business-impact estimates.
+
 ---
 
 # 7. Exploratory Data Analysis
@@ -542,23 +544,23 @@ The objective was to investigate whether information available during service de
 
 # 20. Initial Model Performance
 
-The initial logistic-regression experiment produced approximately:
+The initial logistic-regression experiment treated SLA breach as a binary classification problem and used operational characteristics available within the analytical dataset. Variables considered to represent downstream outcomes were excluded from the predictive feature set to reduce the risk of data leakage.
 
-### ROC-AUC
+The initial model produced approximately:
 
-**0.822**
+ROC-AUC
 
-### PR-AUC
+0.822
 
-**0.913**
+PR-AUC
+
+0.913
 
 These results indicate that the operational variables used in the initial experiment contained useful predictive information for distinguishing records associated with SLA-breach risk.
 
-The result should be regarded as an **initial predictive experiment**, rather than a final production-ready model.
+The result should be regarded as an initial predictive experiment, rather than a final production-ready model.
 
 Further research would be required to establish model robustness, generalisation, calibration, feature importance, temporal stability, and performance across different operational conditions.
-
----
 
 # 21. Why Predictive SLA Analytics Matters
 
