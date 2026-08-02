@@ -219,7 +219,7 @@ Applying clustering and behavioural analysis to identify meaningful customer seg
 Research areas: Unsupervised Learning · Clustering · Customer Analytics
 [Read Project →](optimizing-customer-segmentation-and-sales-strategy.md)
 
-<div><img src="assets/energy/shopsync1.png" alt="ShopSync Customer Segmentation Dashboard" width="450"></div>
+<div><img src="assets/energy/shopsync1.png" alt="ShopSync Customer Segmentation Dashboard" width="400"></div>
 
 
 ## PROFESSIONAL HIGHLIGHTS 
