@@ -1129,10 +1129,10 @@ The longer-term research objective is to investigate how machine learning, data 
 ### Escalation Analysis Dashboard
 
 <img src="../../assets/energy/grandstay-escalations-dashboard2.png" alt="GrandStay Escalation Analysis Dashboard" width="850">
+
 ### Agent Performance and Customer Experience Dashboard
 
-<img src="../../assets/energy/agents-performance-&-cx-dashboard.png" alt="GrandStay Agent Performance and Customer Experience Dashboard" width="850">
-
+<img src="../../assets/energy/agents-performance-&-cx-dashboard.png" alt="GrandStay Agent Performance and Customer Experience Dashboard" width="750">
 ---
 
 ## Project Classification
