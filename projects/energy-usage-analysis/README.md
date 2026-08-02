@@ -1,6 +1,6 @@
 <div class="hero">
 
-# Machine Learning for HVAC Energy Consumption and Predictive Maintenance
+# # HVAC Energy Analytics and Predictive Maintenance: An Applied Analytics Study
 
 ## Research & Applied Analytics Project
 
