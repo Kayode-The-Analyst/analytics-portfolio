@@ -203,7 +203,7 @@ Research areas: AI · Intelligent Systems · Explainable AI
 [Read Project →](intelligent-travel-concierge-assistant.md)
 
 
-<img src="assets/energy/grandstay-executive-dashboard1.png" alt="Intelligent Service Analytics Executive Dashboard" width="450">
+<div><img src="assets/energy/grandstay-executive-dashboard1.png" alt="Intelligent Service Analytics Executive Dashboard" width="400"></div>
 
 
 Explainable Machine Learning for Customer Churn
@@ -221,7 +221,7 @@ Research areas: Unsupervised Learning · Clustering · Customer Analytics
 [Read Project →](optimizing-customer-segmentation-and-sales-strategy.md)
 
 ![Dashboard Overview](assets/energy/shopsync1.png)
-<img src="assets/energy/grandstay-escalations-dashboard2.png" alt="Service Escalation Dashboard" width="450">
+<div><img src="assets/energy/agents-performance-&-cx-dashboard" alt="Agent Performance and Customer Experience Dashboard" width="450"></div>
 
 
 ## PROFESSIONAL HIGHLIGHTS 
