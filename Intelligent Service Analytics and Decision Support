@@ -1,61 +1,75 @@
 <div class="hero">
 
-# Improving Customer Support Efficiency and CSAT — GrandStay Hospitality
+# Intelligent Service Analytics and Decision Support
 
-</div>
-# Improving Customer Support Efficiency and CSAT — GrandStay Hospitality
+## Research & Applied Analytics Project
 
-## 📊 Project Overview
-This project analyzes customer support operations at GrandStay to uncover the root causes of low customer satisfaction (CSAT), frequent SLA breaches, and high ticket escalations across regions.
+### Abstract
 
-The analysis revealed that the problem was not agent performance, but structural issues in knowledge management, process design, and demand handling.
+This project investigates operational service data to identify process, knowledge and automation opportunities that could improve service-level performance and customer experience.
 
-## 🎯 Objectives
-- Identify drivers of low CSAT and SLA failures
-- Analyze ticket handling, escalation patterns, and channel performance
-- Evaluate effectiveness of the Knowledge Base (KB)
-- Recommend structural improvements to support operations
+The analysis examined service processes, escalation patterns and agent/customer-experience indicators to identify opportunities for automation and operational improvement.
 
-## 🛠 Focus Areas
-- First response time and its impact on CSAT
-- Ticket volume vs abandonment rate
-- Escalation handling and approval bottlenecks
-- Knowledge Base effectiveness
-- Channel performance (Chat vs Phone vs Email)
+The project identified opportunities that were projected to reduce SLA breaches by approximately **30%** and improve CSAT by approximately **20%**.
 
-## 📈 Key Insights
-- Average CSAT is 3.23 and drops when response time exceeds 5 minutes
-- 62,000 SLA breaches recorded across regions
-- Chat channel delivers higher satisfaction than phone and email
-- 5,000 tickets escalated with an average handle time of 15.75 hours
-- Agents spend 3.65 hours searching the KB without resolution
-- 40% of tickets are repetitive and suitable for automation
+The project also provides a foundation for future research into machine-learning-based service-risk prediction and intelligent decision-support systems.
 
-## 💡 Root Cause
-Support inefficiencies are driven by outdated KB content, unclear decision rights, policy gaps, billing complexity, and poor process design — not agent effort.
+**Research areas:** Artificial Intelligence · Intelligent Systems · Decision Support · Process Analytics · Automation
 
-## ✅ Recommendations
-- Redesign and re-index the Knowledge Base with decision trees and clear escalation paths
-- Introduce chatbots and self-service for repetitive requests
-- Implement chat-first routing and dynamic staffing during peak hours
-- Reduce unnecessary escalations with better agent authority and templates
-- Track KPIs: FCR, CSAT by peak hour, escalation rate, KB success rate, cost per contact
+---
 
-## 📌 Outcome
-The project provided a structural roadmap to improve CSAT, reduce SLA breaches, lower support costs, and stabilize customer support operations through knowledge, process, and demand optimization.
+## 1. Background
 
+Modern service organisations generate large volumes of operational data through service requests, escalations, customer interactions and support activities.
 
-## 🖥 Dashboard Preview
-![Dashboard Overview](assets/energy/grandstay-executive-dashboard1.png)
+Analysing this information can reveal recurring process problems, knowledge gaps and opportunities for automation.
 
+However, descriptive reporting alone does not necessarily provide proactive decision support.
 
+An intelligent service system could potentially identify high-risk service requests and provide recommendations before SLA breaches occur.
 
-![Maintenance Dashboard](assets/energy/grandstay-escalations-dashboard2.png)
+---
 
+## 2. Research Problem
 
-![Maintenance Dashboard](assets/energy/agents-performance-&-cx-dashboard)
+The project investigates how operational service data can be used to identify factors associated with service delays and SLA breaches.
 
+The central research question is:
 
+> **Can service-operation data be used to identify patterns associated with SLA breaches and support intelligent decision-making and automation?**
 
-[Explore More Data Projects in My Portfolio](https://kayode-the-analyst.github.io/analytics-portfolio/)
+---
 
+## 3. Research Objectives
+
+The objectives are to:
+
+1. Analyse service-operation patterns.
+2. Identify common causes of escalations and SLA breaches.
+3. Identify process and knowledge gaps.
+4. Identify opportunities for automation.
+5. Investigate how predictive analytics could support proactive intervention.
+6. Develop a foundation for an intelligent service decision-support system.
+
+---
+
+## 4. Analytical Framework
+
+The project followed the following conceptual framework:
+
+```text
+Service Data
+     ↓
+Data Preparation
+     ↓
+Operational Analysis
+     ↓
+Pattern Identification
+     ↓
+SLA / Escalation Analysis
+     ↓
+Process & Knowledge Gap Analysis
+     ↓
+Automation Opportunities
+     ↓
+Decision Support
