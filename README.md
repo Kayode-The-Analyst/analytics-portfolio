@@ -193,8 +193,8 @@ Research areas: Machine Learning · Predictive Maintenance · IoT Analytics
 
 [Read Research Project →](energy-usage-analysis.md)
 
-![Dashboard Overview](assets/energy/overview.png)
-<img src="assets/energy/overview.png" alt="HVAC Energy Dashboard" width="400">
+<div> <img src="assets/energy/overview.png" alt="HVAC Energy Dashboard" width="400"> </div>
+Research areas: Predictive Analytics · Machine Learning · Energy Analytics · Predictive Maintenance
 
 
 Intelligent Service Analytics & Decision Support
@@ -203,7 +203,7 @@ Research areas: AI · Intelligent Systems · Explainable AI
 [Read Project →](intelligent-travel-concierge-assistant.md)
 
 
-![Dashboard Overview](assets/energy/grandstay-executive-dashboard1.png)
+<img src="assets/energy/grandstay-executive-dashboard1.png" alt="Intelligent Service Analytics Executive Dashboard" width="450">
 
 
 Explainable Machine Learning for Customer Churn
@@ -221,7 +221,7 @@ Research areas: Unsupervised Learning · Clustering · Customer Analytics
 [Read Project →](optimizing-customer-segmentation-and-sales-strategy.md)
 
 ![Dashboard Overview](assets/energy/shopsync1.png)
-
+<img src="assets/energy/grandstay-escalations-dashboard2.png" alt="Service Escalation Dashboard" width="450">
 
 
 ## PROFESSIONAL HIGHLIGHTS 
