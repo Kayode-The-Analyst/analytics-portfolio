@@ -1,6 +1,6 @@
 <div class="hero">
 
-##  HVAC Energy Analytics and Predictive Maintenance: An Applied Analytics Study
+# HVAC Energy Analytics and Predictive Maintenance: An Applied Analytics Study
 
 ## Research & Applied Analytics Project
 
