@@ -100,8 +100,6 @@ Automation Opportunities
           ↓
 Decision-Support Opportunities
 
-The analysis focused on understanding operational patterns and translating those patterns into practical improvement opportunities.
-
 6. Service Performance Analysis
 
 Service-level performance was examined to identify areas where operational processes could be improved.
@@ -226,7 +224,6 @@ What is likely to happen?
 Decision Support
         ↓
 What action should be considered?
-
 This transition represents the principal research direction arising from the project.
 
 13. Proposed Predictive Analytics Extension
@@ -296,8 +293,6 @@ Primary contributing factors:
 
 Suggested intervention:
 Escalate / Prioritise / Assign specialist
-
-This would allow human decision-makers to consider the model's output alongside operational knowledge.
 
 16. Proposed Research Questions
 
