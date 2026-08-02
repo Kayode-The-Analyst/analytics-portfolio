@@ -12,7 +12,7 @@ The analysis examined approximately **71,966 kWh of sensor data** and **354 main
 
 The original analytical work was undertaken to support targeted energy-efficiency and preventive-maintenance planning. The project provides a foundation for further investigation into the application of machine learning to HVAC energy forecasting and predictive maintenance.
 
---
+
 **Scope clarification:** The completed work documented in this project consists of data preparation, exploratory analysis, energy and maintenance analysis, and visual analytics. Machine-learning modelling is proposed as a future research extension and is not presented as a completed component of the current project.
 
 **Research areas:** Machine Learning · Predictive Maintenance · Energy Analytics · IoT Analytics · Data Analytics
