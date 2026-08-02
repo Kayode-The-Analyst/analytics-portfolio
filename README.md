@@ -194,6 +194,7 @@ Research areas: Machine Learning · Predictive Maintenance · IoT Analytics
 [Read Research Project →](energy-usage-analysis.md)
 
 ![Dashboard Overview](assets/energy/overview.png)
+<img src="assets/energy/overview.png" alt="HVAC Energy Dashboard" width="400">
 
 
 Intelligent Service Analytics & Decision Support
