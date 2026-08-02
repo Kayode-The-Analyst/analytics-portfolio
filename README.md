@@ -182,7 +182,7 @@ Graduated: 2009
 
 ## PROJECTS
 
-Machine Learning for HVAC Energy Consumption & Predictive Maintenance
+### 1. Machine Learning for HVAC Energy Consumption & Predictive Maintenance
 
 Investigating whether sensor and maintenance data can be used to identify energy-consumption patterns and predict maintenance requirements.
 
@@ -197,9 +197,16 @@ Research areas: Machine Learning · Predictive Maintenance · IoT Analytics
 Research areas: Predictive Analytics · Machine Learning · Energy Analytics · Predictive Maintenance
 
 
-Intelligent Service Analytics & Decision Support
-Investigating opportunities for automation and intelligent prediction of service-level risks.
-Research areas: AI · Intelligent Systems · Explainable AI
+### 2. Intelligent Service Analytics & Decision Support
+
+Analysed service-operation data to identify process, knowledge and automation opportunities across service performance, escalation patterns and customer experience.
+
+The analysis identified opportunities projected to reduce SLA breaches by approximately **30%** and improve CSAT by approximately **20%**, while providing a foundation for further research into predictive analytics and intelligent decision-support systems.
+
+<img src="assets/energy/grandstay-executive-dashboard1.png" alt="Intelligent Service Analytics Executive Dashboard" width="450">
+
+**Research areas:** Artificial Intelligence · Intelligent Systems · Predictive Analytics · Decision Support
+
 [Read Project →](Intelligent_Service_Analytics_and_Decision_Support.md)
 
 
