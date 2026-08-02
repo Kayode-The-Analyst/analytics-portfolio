@@ -3,6 +3,8 @@
 
 ## Research & Applied Analytics Project
 
+## Investigating SLA Risk, Escalation, Automation Opportunities and Customer Experience Using Service-Operation Data
+
 ### Abstract
 
 This project investigates how service-operation data can be used to identify process, knowledge and automation opportunities that may improve service-level performance and customer experience.
