@@ -195,46 +195,33 @@ Research areas: Machine Learning · Predictive Maintenance · IoT Analytics
 
 ![Dashboard Overview](assets/energy/overview.png)
 
-![Maintenance Dashboard](assets/energy/maintenance.png)
 
-- [Read More](energy-usage-analysis.md)
-
-
-
-**How Identified process, knowledge, and automation opportunities projected to reduce SLA breaches by 30% and improve CSAT by 20%.**
+Intelligent Service Analytics & Decision Support
+Investigating opportunities for automation and intelligent prediction of service-level risks.
+Research areas: AI · Intelligent Systems · Explainable AI
+[Read Project →](intelligent-travel-concierge-assistant.md)
 
 
 ![Dashboard Overview](assets/energy/grandstay-executive-dashboard1.png)
 
 
-
-![Maintenance Dashboard](assets/energy/grandstay-escalations-dashboard2.png)
-
-
-![Maintenance Dashboard](assets/energy/agents-performance-&-cx-dashboard)
-
-- [Read More](intelligent-travel-concierge-assistant.md)
-
-
-**Led ~85% of customer churn analysis, SQL transformation, Power BI dashboards, and data-driven retention strategy development for Veritas Bank**
+Explainable Machine Learning for Customer Churn
+Applying predictive modelling and explainable AI to customer retention.
+Research areas: Machine Learning · Explainable AI · Predictive Analytics
+[Read Project →](customers-churn-and-Retention-analysis.md)
 
 ![Dashboard Overview](assets/energy/veritas1.png)
 
-![Churn-Rate Dashboard](assets/energy/veritas2.png)
-
-[Read More](customers-churn-and-Retention-analysis.md)
 
 
-**Identified strategies to lift retention and purchase frequency, targeting up to 15% revenue growth through improved customer segmentation — ShopSync E-commerce**
+Machine Learning-Based Customer Segmentation
+Applying clustering and behavioural analysis to identify meaningful customer segments.
+Research areas: Unsupervised Learning · Clustering · Customer Analytics
+[Read Project →](optimizing-customer-segmentation-and-sales-strategy.md)
 
 ![Dashboard Overview](assets/energy/shopsync1.png)
 
-![Churn-Rate Dashboard](assets/energy/shopsync2.png)
 
-![Churn-Rate Dashboard](assets/energy/shopsync3.png)
-
-
-[Read More](optimizing-customer-segmentation-and-sales-strategy.md)
 
 ## PROFESSIONAL HIGHLIGHTS 
 - 15+ years in Computing and Information Technology
