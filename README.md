@@ -211,7 +211,6 @@ Applying predictive modelling and explainable AI to customer retention.
 Research areas: Machine Learning · Explainable AI · Predictive Analytics
 [Read Project →](customers-churn-and-Retention-analysis.md)
 
-![Dashboard Overview](assets/energy/veritas1.png)
 <div><img src="assets/energy/veritas1.png" alt="Veritas Bank Customer Churn Dashboard" width="400"></div>
 
 
@@ -220,7 +219,6 @@ Applying clustering and behavioural analysis to identify meaningful customer seg
 Research areas: Unsupervised Learning · Clustering · Customer Analytics
 [Read Project →](optimizing-customer-segmentation-and-sales-strategy.md)
 
-![Dashboard Overview](assets/energy/shopsync1.png)
 <div><img src="assets/energy/shopsync1.png" alt="ShopSync Customer Segmentation Dashboard" width="450"></div>
 
 
