@@ -212,7 +212,7 @@ Research areas: Machine Learning · Explainable AI · Predictive Analytics
 [Read Project →](customers-churn-and-Retention-analysis.md)
 
 ![Dashboard Overview](assets/energy/veritas1.png)
-<div><img src="assets/energy/veritas1.png" alt="Veritas Bank Customer Churn Dashboard" width="450"></div>
+<div><img src="assets/energy/veritas1.png" alt="Veritas Bank Customer Churn Dashboard" width="400"></div>
 
 
 Machine Learning-Based Customer Segmentation
@@ -221,7 +221,7 @@ Research areas: Unsupervised Learning · Clustering · Customer Analytics
 [Read Project →](optimizing-customer-segmentation-and-sales-strategy.md)
 
 ![Dashboard Overview](assets/energy/shopsync1.png)
-<div><img src="assets/energy/agents-performance-&-cx-dashboard" alt="Agent Performance and Customer Experience Dashboard" width="450"></div>
+<div><img src="assets/energy/shopsync1.png" alt="ShopSync Customer Segmentation Dashboard" width="450"></div>
 
 
 ## PROFESSIONAL HIGHLIGHTS 
