@@ -1,4 +1,3 @@
-<div class="hero">
 # Customer Churn Analysis & Retention Decision Support
 
 ## Research & Applied Analytics Project
