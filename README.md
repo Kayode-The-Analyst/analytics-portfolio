@@ -201,7 +201,7 @@ Research areas: Predictive Analytics · Machine Learning · Energy Analytics · 
 
 Analysed service-operation data to identify process, knowledge and automation opportunities across service performance, escalation patterns and customer experience.
 
-The analysis identified opportunities projected to reduce SLA breaches by approximately **30%** and improve CSAT by approximately **20%**, while providing a foundation for further research into predictive analytics and intelligent decision-support systems.
+The analysis identified potential operational improvement opportunities associated with process standardisation, knowledge management and automation. Scenario analysis suggested potential reductions in SLA breaches and improvements in CSAT; these estimates are treated as projected opportunities rather than experimentally demonstrated outcomes.
 
 **Research areas:** Artificial Intelligence · Intelligent Systems · Predictive Analytics · Decision Support
 
