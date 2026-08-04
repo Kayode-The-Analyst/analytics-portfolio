@@ -1,5 +1,3 @@
-
-<div class="hero">
 # Intelligent Service Analytics & Decision Support
 
 ## Intelligent Service Analytics and Decision Support: An Applied Operational Analytics Study
