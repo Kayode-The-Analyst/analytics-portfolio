@@ -1,4 +1,3 @@
-<div class="hero">
 # Customer Segmentation & Sales Strategy Optimisation
 
 ## Research & Applied Analytics Project
